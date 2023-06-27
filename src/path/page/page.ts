@@ -1,0 +1,16 @@
+export { default as BlogPage } from "../../pages/blog/index_blog";
+export { default as CartPage } from "../../pages/cart/index_cart";
+export { default as CatePage } from "../../pages/cate/index_cate";
+export { default as ContactPage } from "../../pages/contact/index_contact";
+export { default as Detail } from "../../pages/detail/index_detail";
+export { default as DetailBlogPage } from "../../pages/detail_blog/index_detail_blog";
+export { default as HomePage } from "../../pages/home/ABERA";
+export { default as CartItem } from "../../pages/home/ABERA/widget/cart_item";
+export { default as NumberCart } from "../../pages/home/ABERA/widget/number_cart";
+export { default as SvgBody } from "../../pages/home/ABERA/widget/svg_body";
+export { default as ProductAll } from "../../pages/product_all/index_product_all";
+export { default as CustomerSupportPage } from "../../pages/customer-support/index_customer_support";
+export { default as InfoPage } from "../../pages/info/index_info";
+export { default as SearchPage } from "../../pages/search/index_search";
+export { default as SearchResultPage } from "../../pages/search_result/index_search_result";
+export { default as OrderSuccess } from "../../pages/cart/widget/order_success";

@@ -1,0 +1,32 @@
+export interface ItemBodyJson {
+  isStock: boolean;
+  images_second: string;
+  imagesMobile: string;
+  price: number;
+  priceDrop: number;
+  numberStar: number;
+  numberRate: number;
+  percent: number;
+  refId: number;
+  linkVideo: string;
+  linkBack: string;
+  rec_education: string;
+  rec_experience: string;
+  rec_salary: string;
+  createdAt: string;
+  id: number;
+  name: string;
+  websiteName: string;
+  websiteId: number;
+  domainName: string;
+  link: string;
+  images: string;
+  active: boolean;
+  guidId: string;
+  parentGuidId: string;
+  parentLevel: number;
+  sortBy: number;
+  type: number;
+  childItems: any[];
+  summary: string;
+}

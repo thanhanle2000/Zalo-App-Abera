@@ -1,0 +1,15 @@
+/* styles.css */
+@import url("/src/vendors/ABERA/themes_abera_index.css");
+@import url("/src/css/ABERA/css2.css");
+@import url("/src/vendors/fontawesome-pro-5/css/all.css");
+@import url("/src/vendors/fonts/font-phosphor/css/phosphor.min.css");
+@import url("/src/vendors/fonts/tuesday-night/stylesheet.min.css");
+@import url("/src/vendors/fonts/butler/stylesheet.min.css");
+@import url("/src/vendors/fonts/a-antara-distance/stylesheet.min.css");
+@import url("/src/vendors/fonts/Roboto/stylesheet.css");
+@import url("/src/vendors/animate.css");
+@import url("/src/vendors/bootstrap-select/css/bootstrap-select.min.css");
+@import url("/src/vendors/slick/slick.min.css");
+@import url("/src/vendors/magnific-popup/magnific-popup.min.css");
+@import url("/src/vendors/jquery-ui/jquery-ui.min.css");
+@import url("/src/vendors/mapbox-gl/mapbox-gl.min.css");

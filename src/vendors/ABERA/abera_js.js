@@ -1,0 +1,15 @@
+import "../jquery.min.js";
+import "../bootstrap/bootstrap.bundle.js";
+import "../bootstrap-select/js/bootstrap-select.min.js";
+import "../magnific-popup/jquery.magnific-popup.min.js";
+import "../../js/theme.js";
+import "../jquery-ui/jquery-ui.min.js";
+import "../slick/slick.min.js";
+import "../waypoints/jquery.waypoints.min.js";
+import "../counter/countUp.js";
+import "../hc-sticky/hc-sticky.min.js";
+import "../jparallax/TweenMax.min.js";
+import "../mapbox-gl/mapbox-gl.js";
+import "../isotope/isotope.js";
+import "../chartjs/chart.min.js";
+import "../js360/jquery-3.6.0.min";

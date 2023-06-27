@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "Abera Vietnam",
+    "headerColor": "",
+    "leftButton": "none",
+    "textColor": {
+      "light": "black",
+      "dark": "black"
+    },
+    "statusBarColor": "#ffffff",
+    "actionBarHidden": true,
+    "hideAndroidBottomNavigationBar": true,
+    "hideIOSSafeAreaBottom": true
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": ["/404"]
+}
